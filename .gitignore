@@ -55,3 +55,6 @@ nunit-*.xml
 
 # JetBrains Rider
 .idea/
+
+# act (local GitHub Actions runner)
+.act/
